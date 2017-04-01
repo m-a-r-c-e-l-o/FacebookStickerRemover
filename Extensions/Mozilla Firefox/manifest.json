@@ -1,0 +1,22 @@
+{
+   "author": "m-a-r-c-el-o",
+
+   "permissions": ["*://*.facebook.com/*"],
+   "browser_action": {
+      "default_icon": "icon48.png"
+   },
+   "content_scripts": [ {
+      "js": [ "index.js" ],
+      "matches": [ "*://*.facebook.com/*" ],
+      "run_at": "document_start"
+   } ],
+   "description": "Completely hide Facebook Sticker Comments",
+      "icons": {
+      "128": "icon128.png",
+      "64": "icon64.png",
+      "48": "icon48.png"
+   },
+   "manifest_version": 2,
+   "name": "Facebook Sticker Remover",
+   "version": "1.0"
+}
