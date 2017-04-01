@@ -7,7 +7,7 @@ Uma Extenção para Navegadores!
 ## O que faz? // What's it for?
 
 Facebook Sticker Remover permite que você leia os comentários importantes sem que os stickers te atrapalhem!<br>
-<i>Facebook Sticker Remover allows you to read important comments without those stickers in the way.</i>
+<i>Facebook Sticker Remover allows you to read important comments without the stickers in the way.</i>
 
 ##
 <p align="center">
