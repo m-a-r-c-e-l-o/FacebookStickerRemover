@@ -11,7 +11,7 @@ Facebook Sticker Remover permite que você leia os comentários importantes sem 
 
 ## Download
 
-[![Mozilla Add-on](https://img.shields.io/amo/v/dustman.svg)](https://addons.mozilla.org/addon/facebook-sticker-remover/)
+[![Mozilla Add-on](https://img.shields.io/amo/v/dustman.svg)](https://services.addons.mozilla.org/pt-BR/firefox/api/1.5/addon/facebook-sticker-remover)
 
 
 <p align="center">
