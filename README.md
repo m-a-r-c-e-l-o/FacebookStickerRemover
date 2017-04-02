@@ -9,7 +9,11 @@ Uma Extenção para Navegadores!
 Facebook Sticker Remover permite que você leia os comentários importantes sem que os stickers te atrapalhem!<br>
 <i>Facebook Sticker Remover allows you to read important comments without the stickers in the way.</i>
 
-##
+## Download
+
+[![Mozilla Add-on](https://img.shields.io/amo/v/dustman.svg)](https://addons.mozilla.org/addon/facebook-sticker-remover/)
+
+
 <p align="center">
   <img src="http://i.imgur.com/C9S00Im.png"/>
 </p>
